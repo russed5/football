@@ -15,6 +15,7 @@ data = response.read()
 #encoding = data.info().get_content_charset('utf-8')
 #ddd = json.loads(data)
 
+print('thirdpass')
 print('secondpass')
 print(data)
 
